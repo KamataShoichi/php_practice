@@ -11,7 +11,7 @@ echo $array_month[7];
 $hello = "Hello,";
 $name = "Kamata Shoichi";
 $world = "`s World!";
-echo $hello,$name,$world;
+echo $hello.$name.$world;
 
 $tech_boost = "tech";
 $tech_boost .=" boost";
@@ -33,9 +33,3 @@ $calender_2018 = [
 ];
 
 echo $calender_2018["December"];
-
-
-
-
-
-?>
